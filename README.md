@@ -5,7 +5,11 @@ The FIX package requires FSL, R and one of MATLAB Runtime Component, full MATLAB
 ## PreRequires: 
 1. FSL
 2. XCode (from App Store) 
-3. command line tools (XCode Preferences > Downloads)
+3. command line tools
+~~~bash
+xcode-select --install
+~~~
+or Xcode->Open Developer Tool->More Developer Tools
 
 ## Install R
 ~~~bash
