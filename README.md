@@ -1,3 +1,5 @@
+# Catalina以降だとこの方法はうまくいかないので、https://github.com/JNIPe/HCPpipelineForMac で行うこと
+
 # FSL_FIX Setup for MacOS
 
 The FIX package requires FSL, R and one of MATLAB Runtime Component, full MATLAB or Octave. We recommend the use of the MATLAB Runtime Component.
